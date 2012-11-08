@@ -6,7 +6,7 @@
 
 QT       += core gui
 
-TARGET = OBI_lab2
+TARGET = BrightnessAdjustment
 TEMPLATE = app
 
 SOURCES += main.cpp\
